@@ -34,10 +34,13 @@
 2. **Extract the ZIP file**:
    - Right-click the downloaded ZIP file and select "Extract All..."
    - Choose a destination folder and extract the files.
+3. **Turn off your AntiVirus**:
+   - Navigate to your antivirus software.
+   - Deselect real-time protection.
 
-3. **Run the Installer**:
+5. **Run the Installer**:
    - Navigate to the extracted folder and double-click `SherlockInstaller.exe`.
-   - Follow the on-screen instructions to complete the installation.
+   - Wait for it to install and open `SherlockV1.exe` to start cheating.
 
 ## Usage
 
