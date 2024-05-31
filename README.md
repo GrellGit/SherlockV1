@@ -34,7 +34,7 @@
 2. **Extract the ZIP file**:
    - Right-click the downloaded ZIP file and select "Extract All..."
    - Choose a destination folder and extract the files.
-3. **Turn off your AntiVirus**:
+3. **Turn off your Antivirus**:
    - Navigate to your antivirus software.
    - Deselect real-time protection.
 
